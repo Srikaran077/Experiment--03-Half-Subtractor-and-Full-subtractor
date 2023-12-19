@@ -57,19 +57,27 @@ assign borrow=~a&b|c&~(a^b);
 endmodule
 
 #  RTL realization:
-![halfsubtract(1)] ![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/e916e9a9-564f-48d2-936f-e3c1c8885282)
+## ![halfsubtract(1)] 
 
-# ![fullsubtractor(1)] ![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/cfd5d5c0-7bf2-488e-9d17-185b55a32945)
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/e916e9a9-564f-48d2-936f-e3c1c8885282)
+
+# ![fullsubtractor(1)]
+
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/cfd5d5c0-7bf2-488e-9d17-185b55a32945)
 
 # Truth Table:
-![halfsub(2)]![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/939b808b-c6de-44f6-be98-c99281368d7c)
+## ![halfsub(2)]
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/939b808b-c6de-44f6-be98-c99281368d7c)
 
-# ![fullsubtractor(2)]![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/400479e6-8d26-4ec9-bc48-01e8d0fa4673)
+# ![fullsubtractor(2)]
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/400479e6-8d26-4ec9-bc48-01e8d0fa4673)
 
 # Timing diagram :
-![halfsub]![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/bd2d0865-03d4-4dd4-96ed-013257a9fb1e)
+# ![halfsub]
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/bd2d0865-03d4-4dd4-96ed-013257a9fb1e)
 
-# ![fullsubtractor]![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/10d79f33-1097-43b9-8dc4-972b705285a0)
+# ![fullsubtractor]
+![image](https://github.com/Srikaran077/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151993143/10d79f33-1097-43b9-8dc4-972b705285a0)
 
 # Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
